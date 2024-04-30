@@ -3,7 +3,7 @@ import Data from "./components/data"
 const App = () => {
   return (
     <div>
-      <Data/>
+      <Data/> 
     </div>
   )
 }
