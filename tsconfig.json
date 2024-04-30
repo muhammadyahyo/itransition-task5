@@ -9,6 +9,7 @@
     /* Bundler mode */
       "moduleResolution": "NodeNext",
     "allowSyntheticDefaultImports": true,
+    "allowImportingTsExtensions": true,
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
