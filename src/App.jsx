@@ -1,4 +1,4 @@
-import Data from "./components/data"
+import Data from "./components/data.tsx"
 
 const App = () => {
   return (
